@@ -8,7 +8,7 @@ Each person has their own folder and one main group folder.
 | Name        | Primary Role| Secondary Roles|
 | ----------- | ----------- | -------------- |
 |Derek Pastor | UX          | UI             |
-|Name         | Role 1      | Role 2         |
+|Moa Svensson | UX          | UI             |
 |Name         | Role 1      | Role 2         |
 |Name         | Role 1      | Role 2         |
 |Name         | Role 1      | Role 2         |
