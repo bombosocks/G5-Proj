@@ -1,2 +1,4 @@
 # G5-Proj
-Group 5 project
+
+Each person has their own file and one main file
+
