@@ -11,4 +11,4 @@ Each person has their own folder and one main group folder.
 |Moa Svensson | UX          | UI             |
 |Justin Ronca | Team Leader | Content Creator|
 |Jacob Schneider| GD        | UX             |
-|Name         | Role 1      | Role 2         |
+|Thomas Martinez| CC        | GD             |
