@@ -10,5 +10,5 @@ Each person has their own folder and one main group folder.
 |Derek Pastor | UX          | UI             |
 |Moa Svensson | UX          | UI             |
 |Justin Ronca | Team Leader | Content Creator|
-|Name         | Role 1      | Role 2         |
+|Jacob Schneider| GD        | UX             |
 |Name         | Role 1      | Role 2         |
