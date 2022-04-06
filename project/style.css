@@ -27,6 +27,7 @@ nav {
     text-decoration: none;
     color: white;
     padding: 20px;
+    margin-right: 10%;
 }
 
 #headerTitle {
@@ -41,6 +42,29 @@ footer {
     width: 100%;
     height:28px;
     text-align: center;
+    bottom: 0;
+}
+
+h1 {
+    font-family: 'Aldrich', sans-serif;
+
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#placeholder{
+    align-self: center;
+}
+
+main{
+    padding: 15px;
+}
+
+#started_btn{
+    padding: 10px;
 }
 
 @media only screen and (max-width: 900px) {
